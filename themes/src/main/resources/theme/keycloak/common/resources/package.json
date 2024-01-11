@@ -25,6 +25,7 @@
     "rcue": "3.48.1",
     "select2": "3.5.1",
     "text-security": "2.0.0-alpha.2",
-    "yargs-parser": "20.2.2"
+    "yargs-parser": "20.2.2",
+    "got": "14.0.0"
   }
 }
